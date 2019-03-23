@@ -1,4 +1,4 @@
-# URL Shortener	
+# Fortune Cookies Generator
 
 A random fortune cookie quotes generator that can be shared through Facebook
 
@@ -12,7 +12,7 @@ A random fortune cookie quotes generator that can be shared through Facebook
 
 ## License
 
-This project is licensed under the MIT License - see [LICENSE.md](https://github.com/jsCodeDevs/url-shortener/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see [LICENSE.md](https://github.com/jsCodeDevs/fortune-cookies/blob/master/LICENSE.md) file for details.
 
 
 ## Author
